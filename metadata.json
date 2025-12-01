@@ -1,0 +1,5 @@
+{
+  "name": "Gemini PDF RAG Chat",
+  "description": "A client-side RAG (Retrieval-Augmented Generation) application that allows users to upload PDF documents and chat with them using the Gemini API.",
+  "requestFramePermissions": []
+}
